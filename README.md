@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola Soy Oscar Letelier 👋
 
 Soy Oscar Letelier Molina, Profesional calificado y experimentado,
 con 5 años de experiencia ejecutando procesos de gestión eficiente y
