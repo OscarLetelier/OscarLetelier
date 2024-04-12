@@ -9,7 +9,7 @@ proyectos desde múltiples perspectivas para así ofrecer soluciones
 
 ##
 
-![Descripción de la imagen](/Banner.png)
+![Descripción de la imagen](/desarrolladorweb.png)
 
 <!--
 **OscarLetelier/OscarLetelier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
