@@ -6,6 +6,9 @@ automatización de tareas, parte de mi enfoque se distingue por
 solidas habilidades creativas y analíticas, que me permiten abordar
 proyectos desde múltiples perspectivas para así ofrecer soluciones
 únicas y personalizadas.
+
+![Descripción de la imagen](/Banner.png)
+
 <!--
 **OscarLetelier/OscarLetelier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
