@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Soy Oscar Letelier Molina, Profesional calificado y experimentado,
+con 5 años de experiencia ejecutando procesos de gestión eficiente y
+automatización de tareas, parte de mi enfoque se distingue por
+solidas habilidades creativas y analíticas, que me permiten abordar
+proyectos desde múltiples perspectivas para así ofrecer soluciones
+únicas y personalizadas.
 <!--
 **OscarLetelier/OscarLetelier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
