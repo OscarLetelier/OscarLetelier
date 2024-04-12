@@ -7,6 +7,8 @@ solidas habilidades creativas y analíticas, que me permiten abordar
 proyectos desde múltiples perspectivas para así ofrecer soluciones
 únicas y personalizadas.
 
+##
+
 ![Descripción de la imagen](/Banner.png)
 
 <!--
