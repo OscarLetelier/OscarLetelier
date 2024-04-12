@@ -1,6 +1,6 @@
 # Hola Soy Oscar Letelier 👋
 
-Soy Oscar Letelier Molina, Profesional calificado y experimentado,
+Profesional calificado y experimentado,
 con 5 años de experiencia ejecutando procesos de gestión eficiente y
 automatización de tareas, parte de mi enfoque se distingue por
 solidas habilidades creativas y analíticas, que me permiten abordar
