@@ -12,7 +12,7 @@ Estoy dedicando mi tiempo a dominar las siguientes tecnologías y conceptos:
 
 * **Core Backend:** **Java** (avanzado), **Spring Boot** (APIs REST, MVC, Data), Arquitectura de Microservicios (conceptual).
 * **Persistencia de Datos:** **SQL** (PostgreSQL, MySQL), **NoSQL** (MongoDB), JDBC, JPA/Hibernate.
-* **Frontend:** **HTML5**, **CSS3**, **JavaScript** (ES6+). *(Menciona si estás viendo algún framework como React, Angular, Vue)*
+* **Frontend:** **HTML5**, **CSS3**, **JavaScript** (ES6+). *React
 * **Diseño:** **Figma** (Diseño de interfaces y prototipado).
 * **Herramientas Esenciales:** **Git**/GitHub, Docker (conceptual/básico), Metodologías Ágiles (Scrum).
 * **Calidad de Código:** Principios SOLID, Patrones de Diseño, Pruebas Unitarias (JUnit).
@@ -43,24 +43,3 @@ Aquí las herramientas y tecnologías con las que trabajo y estoy aprendiendo:
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a> </p>
 
 ---
-
-[### 💻 Mis Proyectos Destacados:
-
-Aquí algunos proyectos donde aplico (o aplicaré pronto) lo que estoy aprendiendo. *(¡Recuerda pinearlos en tu perfil!)*
-
-1.  **📌 Plan de Aprendizaje Java Backend (¡Este mismo!)**
-    * Descripción: Repositorio con mis soluciones y progreso en 50 ejercicios clave de Java, cubriendo desde fundamentos hasta JDBC y conceptos intermedios, enfocado en la preparación para roles Backend Jr.
-    * *Tecnologías: Java, JDBC, Git.*
-    * ➡️ **[Enlace a tu Repositorio de Ejercicios Java]** 2.  **📌 [Nombre Proyecto Futuro 1: API REST con Spring Boot]** *(Placeholder)*
-    * Descripción Propuesta: Desarrollo de una API RESTful para [propósito del proyecto, ej: gestión de tareas, catálogo de productos] utilizando Spring Boot, con persistencia en [PostgreSQL/MySQL/MongoDB]. *(Este es un excelente proyecto para demostrar tus habilidades backend)*.
-    * *Tecnologías Planeadas: Java, Spring Boot, Spring Data JPA/Mongo, [Tu BD elegida], JUnit, Git.*
-    * ➡️ *(Añadir enlace cuando exista)*
-
-3.  **📌 [Nombre Proyecto Futuro 2: Aplicación Full-Stack Simple]** *(Placeholder)*
-    * Descripción Propuesta: Una aplicación web simple que combine un backend en Java/Spring Boot con un frontend básico en HTML/CSS/JS para [propósito, ej: mostrar datos de la API, un formulario simple]. *(Demuestra integración frontend-backend)*.
-    * *Tecnologías Planeadas: Java, Spring Boot, HTML, CSS, JavaScript, Thymeleaf (o similar), Git.*
-    * ➡️ *(Añadir enlace cuando exista)*
-
-*(Es crucial tener proyectos (aunque sean pequeños al principio) que demuestren el uso de las tecnologías que listas. Empieza con el de los ejercicios y planifica los siguientes.)*
-
----]
