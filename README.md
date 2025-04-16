@@ -44,7 +44,7 @@ Aquí las herramientas y tecnologías con las que trabajo y estoy aprendiendo:
 
 ---
 
-### 💻 Mis Proyectos Destacados:
+[### 💻 Mis Proyectos Destacados:
 
 Aquí algunos proyectos donde aplico (o aplicaré pronto) lo que estoy aprendiendo. *(¡Recuerda pinearlos en tu perfil!)*
 
@@ -63,4 +63,4 @@ Aquí algunos proyectos donde aplico (o aplicaré pronto) lo que estoy aprendien
 
 *(Es crucial tener proyectos (aunque sean pequeños al principio) que demuestren el uso de las tecnologías que listas. Empieza con el de los ejercicios y planifica los siguientes.)*
 
----
+---]
