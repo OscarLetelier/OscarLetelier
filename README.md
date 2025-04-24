@@ -8,63 +8,31 @@ Siempre estoy en busca de nuevos retos que me permitan aprender, construir y res
 
 ---
 
-## 🌱 Actualmente Aprendiendo
+### 🌱 Actualmente Aprendiendo
 
-Estoy profundizando en el ecosistema Java y fortaleciendo habilidades clave que me permitan crecer profesionalmente:
+| 🧠 **Categoría**        | 🚀 **Tecnologías / Conceptos Clave**                                                                 |
+|------------------------|-------------------------------------------------------------------------------------------------------|
+| ☕ **Backend (Java)**   | Java (avanzado), Spring Boot (REST, MVC, Data), Arquitectura de Microservicios (teoría)             |
+| 🗄️ **Bases de Datos**   | SQL (PostgreSQL, MySQL), NoSQL (MongoDB), JDBC, JPA/Hibernate                                         |
+| 🎨 **Frontend**         | HTML5, CSS3, JavaScript (ES6+), React (inicial)                                                      |
+| 🧩 **Diseño**           | Figma (prototipado y diseño de interfaces)                                                           |
+| 🛠️ **Dev Tools**        | Git / GitHub, Docker (básico), Postman                                                               |
+| 📏 **Buenas Prácticas** | Principios SOLID, Patrones de Diseño, Pruebas Unitarias (JUnit), Metodologías Ágiles (Scrum)         |
 
-- **🔧 Backend:**
-  - Java Avanzado
-  - Spring Boot (REST APIs, Spring MVC, Spring Data JPA)
-  - Arquitectura de Microservicios (conceptos fundamentales)
-- **💾 Bases de Datos:**
-  - SQL: PostgreSQL, MySQL
-  - NoSQL: MongoDB
-  - JDBC, Hibernate (JPA)
-- **🎨 Frontend:**
-  - HTML5, CSS3, JavaScript (ES6+)
-  - Introducción a React
-- **🧪 Buenas Prácticas y Calidad:**
-  - Principios SOLID
-  - Patrones de Diseño
-  - Pruebas Unitarias con JUnit
-- **🛠️ Herramientas y Metodologías:**
-  - Git & GitHub
-  - Docker (nivel básico)
-  - Postman
-  - Metodologías Ágiles (Scrum)
-- **📐 Diseño:**
-  - Figma (Diseño UI/UX y prototipado)
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
 
-<p align="left">
+### 🛠️ Stack Tecnológico
 
-### 🔙 Backend  
-<a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="45" /></a>
+| 💻 **Backend**        | ☕ Java · 🌱 Spring Boot (REST, MVC, Data) |
+|-----------------------|--------------------------------------------|
+| 🎨 **Frontend**       | 🌐 HTML5 · 🎨 CSS3 · ⚡ JavaScript (ES6+) · ⚛️ React |
+| 🗄️ **Bases de Datos** | 🐘 PostgreSQL · 🐬 MySQL · 🍃 MongoDB |
+| 🧩 **Diseño UI/UX**   | 🎨 Figma |
+| 🛠️ **Dev Tools**      | 🌀 Git · 🐱 GitHub · 📬 Postman · 🐳 Docker (básico) |
+| ✅ **Buenas Prácticas** | 📐 SOLID · 🧱 Patrones de Diseño · 🧪 JUnit (Testing) · 📋 Scrum |
 
-### 🎨 Frontend  
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" /></a>
-
-### 🗃️ Bases de Datos  
-<a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="45" /></a>
-<a href="https://www.mysql.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" /></a>
-<a href="https://www.mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45" /></a>
-
-### 🧩 Diseño  
-<a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" /></a>
-
-### ⚙️ Herramientas  
-<a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="45" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" /></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="45" /></a>
-
-</p>
 
 ---
 
