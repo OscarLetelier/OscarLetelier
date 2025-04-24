@@ -25,7 +25,7 @@ Siempre estoy en busca de nuevos retos que me permitan aprender, construir y res
 
 ### 🛠️ Stack Tecnológico
 
-| 💻 **Backend**        | ☕ Java · 🌱 Spring Boot (REST, MVC, Data) |
+|💻 **Backend**        | ☕ Java · 🌱 Spring Boot (REST, MVC, Data) |
 |-----------------------|--------------------------------------------|
 | 🎨 **Frontend**       | 🌐 HTML5 · 🎨 CSS3 · ⚡ JavaScript (ES6+) · ⚛️ React |
 | 🗄️ **Bases de Datos** | 🐘 PostgreSQL · 🐬 MySQL · 🍃 MongoDB |
