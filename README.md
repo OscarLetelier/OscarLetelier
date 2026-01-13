@@ -1,4 +1,4 @@
-# Oscar Letelier
+# Oscar Letelier Molina
 ### Desarrollador Full-Stack (Java & React)
 *Conectando la Ingeniería de Procesos con el Desarrollo de Software*
 
