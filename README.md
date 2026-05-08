@@ -6,10 +6,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-letelier-molina-6a9216140/)
-[![Email](https://img.shields.io/badge/-Email-ea4335?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:oscar.letelier@outlook.com)
-![Visitas](https://komarev.com/ghpvc/?username=OscarLetelier&color=10b981&style=flat-square&label=visitas)
-
 </div>
 
 <br/>
